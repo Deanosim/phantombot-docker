@@ -35,6 +35,7 @@ COPY wrapper.sh /wrapper.sh
 RUN chmod a+x /start-crond
 RUN chmod a+x /start-phantombot
 RUN chmod a+x /wrapper.sh
+RUN chmod u+x ./java-runtime-linux/bin/java
 
 # Run
 CMD ./wrapper.sh
