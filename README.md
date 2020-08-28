@@ -1,3 +1,6 @@
+# I forked this from SleepyMario around 3.0.0 to update the version number, but honestly I stopped using phantombot until recently and found https://github.com/daevien/phantombot-docker is up to date and seems to be actually working unlike this repo so I'm archiving this and suggest you go check out the other fork.
+
+
 # What is this?
 * Docker container
 * Phantombot
